@@ -7,7 +7,9 @@
 ### Em breve estarei lançando meu blog pessoal, divulgando os trabalhos e alguns tutoriais que acredito serem úteis para ajudar a comunidade de programação.
 
 👨🏻‍💻 - Trabalho formalmente como desenvolvedor Flutter num aplicativo multiplataforma de nicho musical.
+
 🧠 - Estou aprendendo Flutter, Swift, Kotlin, e Node.
+
 👨🏻‍🏫 - Futuramente pretendo aprender mais sobre cibersegurança.
 
 ### Conhecimentos principais em Web: 
