@@ -1,23 +1,19 @@
 ![](https://raw.githubusercontent.com/joelsongsouzza/joelsongsouzza/master/Design%20sem%20nome-2.png)
 
-# Olá! Me chamo Joelson Gonçalves e bem-vind@ ao meu repositório! 👋
+# Hello! I'm Joelson Gonçalves and welcome to my repository! 👋
 
-### Sou técnico em desenvolvimento de sistemas e trabalho com tecnologias web e mobile. Estudo muitas tecnologias, sendo bem autodidata e empolgado em aprender cada vez mais sobre distintas áreas da tecnologia que me interessam.
+### I'm certified in System Development with five years of experience and solid knowledge in Flutter, Design Patterns, Clean Code and Problem Solving.
 
-### Em breve estarei lançando meu blog pessoal, divulgando os trabalhos e alguns tutoriais que acredito serem úteis para ajudar a comunidade de programação.
+👨🏻‍💻 - I work as Flutter Developer at Compose, a multiplataform app for composers, and as FullStack Freelancer at KitLivre.
 
-👨🏻‍💻 - Trabalho formalmente como desenvolvedor Flutter num aplicativo multiplataforma de nicho musical.
+🧠 - I'm studying Flutter, Swift and System Architecture.
 
-🧠 - Estou aprendendo Flutter, Swift, e Node.
-
-👨🏻‍🏫 - Futuramente pretendo aprender mais sobre cibersegurança.
-
-### Conhecimentos principais em Web: 
+### Web Knowledge: 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Conhecimentos principais em Mobile:
+### Mobile Knowledge:
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
